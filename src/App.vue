@@ -1,3 +1,5 @@
 <template>
-  <section></section>
+    <section>
+        <router-view></router-view>
+    </section>
 </template>
